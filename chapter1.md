@@ -4,6 +4,85 @@ description: >-
   Insert the chapter description here
 
 
+
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: MultipleChoiceExercise
+key: a9508cd0ad
+lang: python
+xp: 50
+skills: 1
+```
+Type 
+
+print('Hello world')
+
+on your right console.
+
+`@instructions`
+
+`@hint`
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+---
+## <<<New Exercise>>>
+
+```yaml
+type: PlainMultipleChoiceExercise
+key: 0208ec24a5
+lang: r
+xp: 50
+skills: 1
+```
+Type 
+
+print('Hello world')
+
+in the consol.
+
+`@instructions`
+
+`@hint`
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 76568587ed
+xp: 50
+skills: 1
+```
+Hello
+
+
+`@possible_answers`
+
+`@hint`
+
+`@feedbacks`
+
 ---
 ## A really bad movie
 
